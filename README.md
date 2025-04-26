@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ghilasben0
 - 👀 I’m interested in Computer Engineering, Ai, Cyber Security & Computer science
 - ✨ I fluently Speak English, French, Arabic & Tamazight
-- 🌱 I have a Bachelor of science degree in Electrical Engineering and Electronics.
+- 🌱I hold a Bachelor of Science (BSc) degree in Electrical Engineering and Electronics.
 - 🌱 I am currently pursuing a Master of Science (MSc) in Computer Engineering at the Institute of Electrical Engineering and Electronics (IEEE), Boumerdes, Algeria.
 - 💞️ I’m looking to collaborate on Computer Engineering projects
 - 📫 How to reach me : gh.bentayeb@gmail.com  
